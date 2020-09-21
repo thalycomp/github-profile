@@ -5,6 +5,11 @@ Aplicativo de pesquisa que usa a API do GitHub para recuperar informações do u
 
 Ver mais: https://thalycomp-github.netlify.app/
 
+[//]: # (Add your gifs/images here:)
+<div  align="center">
+  <img src="https://i.ibb.co/jvNfLhN/captured.gif" alt="demo" height="500">
+</div>
+
 ## Tecnologias utilizadas
 - ReactJS
 
